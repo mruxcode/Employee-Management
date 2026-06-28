@@ -22,6 +22,7 @@ public class Employee {
     private String position;
     private Double salary;
     private String department;
+    private Integer phoneNumber;
 
     public Employee(String name, String position, Double salary, String department){
         this.name = name;
